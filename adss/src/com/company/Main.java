@@ -9,7 +9,9 @@ public class Main {
         map.put("one",1);
         map.put("two",2);
         map.put("three",30);
+        //we put value and key
         int val = map.get("three");
+        //if get key = put key code system out println value put
                 System.out.println(val);
     }
 }
